@@ -1,0 +1,67 @@
+{
+  "schemaVersion": 1,
+
+  "project": {
+    "title": "MAEV Digital Media Strategy",
+
+    "description": "A strategic digital media project developed for MAEV, a modern clothing brand, covering market analysis, competitive analysis, SWOT analysis, target audience, user persona, strategic objectives, content strategy, digital tactics, and performance measurement.",
+
+    "problem": "MAEV needs a clear digital media direction that can establish a recognizable brand presence, reach the right audience, differentiate the brand within a competitive clothing market, and turn social media activity into measurable business outcomes.",
+
+    "solution": "This project develops a structured digital media strategy for MAEV by analyzing the market and competitors, defining the target audience and user persona, establishing strategic objectives, developing content and media tactics, and creating a KPI framework for continuous performance measurement and optimization.",
+
+    "businessValue": "Provides MAEV with a practical digital roadmap for building brand awareness, engaging the target audience, differentiating from competitors, guiding content creation, and measuring digital marketing performance through clear strategic objectives and KPIs.",
+
+    "status": "production",
+
+    "tags": [
+      "Digital Media Strategy",
+      "Social Media",
+      "Marketing",
+      "Brand Strategy",
+      "Market Research",
+      "Competitive Analysis",
+      "Content Strategy",
+      "Clothing Brand",
+      "Digital Marketing",
+      "MAEV"
+    ],
+
+    "cover": "assets/cover.webp",
+
+    "gallery": [
+      {
+        "type": "image",
+        "title": "Strategy Cover",
+        "file": "assets/cover.webp"
+      },
+      {
+        "type": "pdf",
+        "title": "MAEV Digital Media Strategy",
+        "file": "MAEV DIGITAL MEDIA STRATEGY.pdf"
+      }
+    ],
+
+    "demo": null,
+
+    "caseStudy": null
+  },
+
+  "publish": {
+    "portfolio": {
+      "enabled": true,
+      "visibility": "public",
+      "featured": false,
+      "priority": 60,
+      "customTitle": "MAEV Digital Media Strategy"
+    },
+
+    "mousa-analytics": {
+      "enabled": true,
+      "visibility": "public",
+      "featured": false,
+      "priority": 60,
+      "customTitle": "MAEV Digital Media Strategy"
+    }
+  }
+}
