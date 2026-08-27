@@ -1,6 +1,6 @@
 <div align="center">
 
-# MAEV Digital Media Strategy
+# MAEV Digital Media Strategy 
 
 ### Building a Digital Presence for a Modern Egyptian Clothing Brand
 
